@@ -45,7 +45,7 @@ https://docs.google.com/spreadsheets/d/1TtIexjPBZtldbt6OLpsoFROAJReU3fDzRfBIm_aB
 
 Interactive dashboard:
 
-PASTE YOUR LOOKER STUDIO LINK HERE
+https://datastudio.google.com/reporting/ef8c30ce-86dc-4f6f-aaea-d223b1d3e892
 
 ## Tools Used
 
